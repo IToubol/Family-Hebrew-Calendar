@@ -53,9 +53,9 @@ Add a file `anniversaires.txt` at the parent level with this format *(day, Hebre
 #### Months syntaxe
 `Tichri, Hechvan, Kislev, Tevet, Chevat, Adar-A, Adar-b, Nissan, Iyar, Sivan, Tamouz, Av, Eloul`
 
-Then run:
+Then (on windows) double-click on `create-calendar.bt` or run:
 ```bash
-python calendar_gen.py
+python3 pdfgeneration.py
 ```
 
 ## Notes
